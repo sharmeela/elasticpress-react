@@ -1,0 +1,36 @@
+{
+  "default_branch": "develop",
+  "branches": [
+    "dependabot/npm_and_yarn/browserslist-4.16.6",
+    "dependabot/npm_and_yarn/example/next-9.5.4",
+    "dependabot/npm_and_yarn/hosted-git-info-2.8.9",
+    "dependabot/npm_and_yarn/lodash-4.17.21",
+    "develop",
+    "feature/update-eslint-babel",
+    "fix/changelog",
+    "origin",
+    "trunk"
+  ],
+  "parent": {
+    "dependabot/npm_and_yarn/browserslist-4.16.6": "develop",
+    "dependabot/npm_and_yarn/example/next-9.5.4": "develop",
+    "dependabot/npm_and_yarn/hosted-git-info-2.8.9": "develop",
+    "dependabot/npm_and_yarn/lodash-4.17.21": "develop",
+    "develop": null,
+    "feature/update-eslint-babel": "develop",
+    "fix/changelog": "develop",
+    "origin": "develop",
+    "trunk": "develop"
+  },
+  "order": [
+    "develop",
+    "dependabot/npm_and_yarn/browserslist-4.16.6",
+    "dependabot/npm_and_yarn/example/next-9.5.4",
+    "dependabot/npm_and_yarn/hosted-git-info-2.8.9",
+    "dependabot/npm_and_yarn/lodash-4.17.21",
+    "feature/update-eslint-babel",
+    "fix/changelog",
+    "origin",
+    "trunk"
+  ]
+}
